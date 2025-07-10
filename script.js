@@ -1,8 +1,8 @@
 function mau() {
-    alert("Makasih mau nerima aku :)");
+    alert("Makasih mau berjuang bareng aku :)");
     alert("Aku beneran bahagiaa dengan kamuuu 🥰💕");
-    alert("Kirim jawabannya ke WA aku ya");
-    location.assign("https://wa.me/?text=Aku%20mau%20jadi%20pacar%20kamu%20><");
+    alert("Jangan ngambek dan selalu bareng aku ya. jangan lupa wa aku");
+    location.assign("https://wa.me/081260021670/text=Aku%20sayang%20kamu.%20kita%20berjuang%20bareng%20ya...!><");
   }
 
   function gak(button) {
