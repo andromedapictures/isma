@@ -2,8 +2,9 @@ function mau() {
     alert("Makasih mau berjuang bareng aku :)");
     alert("Aku beneran bahagiaa dengan kamuuu 🥰💕");
     alert("Jangan ngambek dan selalu bareng aku ya. jangan lupa wa aku");
-    location.assign("https://wa.me/081260021670/text=Aku%20sayang%20kamu.%20kita%20berjuang%20bareng%20ya...!><");
-  }
+    <a href="https://wa.me/6281260021670?text=Aku%20sayang%20kamu.%20Kita%20berjuang%20bareng%20ya...!" target="_blank">
+  Kirim Pesan WhatsApp
+</a>
 
   function gak(button) {
     const viewportWidth = window.innerWidth - button.offsetWidth;
